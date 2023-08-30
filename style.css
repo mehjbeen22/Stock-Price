@@ -46,12 +46,11 @@ input {
   outline: none;
 }
 
-
-.error-msg{
-background-color: #dc2626;
+.error-msg {
+  background-color: #dc2626;
   font-weight: bold;
- word-spacing: 2px;
- 
+  word-spacing: 2px;
+
   margin: 5px;
 }
 /* ------------------OUTPUT CONTAINER---------------------- */
@@ -76,15 +75,13 @@ background-color: #dc2626;
   margin-inline: 2rem;
   width: 90%;
   padding: 20px;
- 
+  background-color: #fff;
 }
 
-
-#btn{
+#btn {
   width: 30%;
   padding: 10px;
   margin: 10px;
   font-size: 1rem;
   box-shadow: rgba(0, 0, 0, 0.35) 0px -50px 36px -28px inset;
-
 }
